@@ -1,0 +1,89 @@
+p{
+    text-align:justify;
+    text-indent: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1, h2, h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color:#5e5959;
+
+}
+
+header {
+background-color: black;
+padding: 4px;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+
+.imagem_1{
+    text-align: center;
+}
+
+
+.imagem_2{
+    text-align: center;
+}
+
+.imagem_3{
+    text-align: center;
+}
+
+
+
+header a {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+
+}
+
+header a:hover{
+    color:rgb(179, 174, 174); 
+}
+hr{
+    margin-top:40px;
+    margin-bottom:40px;
+}
+.hgroup_center{
+    text-align: center;
+}
+.first_button{
+    background-color: #555555;
+    border:none;
+    color:white;
+    padding:10px 25px;
+   text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin:4px 2px;
+    cursor:pointer;
+}
+
+
+
+.titulo{
+    text-align: center;
+    font-size: larger;
+}
+.h1-contato, .h2-contato{
+    color: black;
+}
+.bloco-suporte {
+    display: flex;
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 150px;
+}
+.bloco-suporte2{
+    display: flex;
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 150px;
+
+}
